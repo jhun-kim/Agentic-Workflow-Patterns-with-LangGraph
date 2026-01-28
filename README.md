@@ -1,7 +1,7 @@
 # 🤖 Agentic Workflow & LLM Design Patterns
 > **Advanced AI System Orchestration with LangGraph and Upstage Solar-Pro**
 
-단순한 프롬프트 엔지니어링을 넘어, **LangGraph**를 활용하여 복잡한 비즈니스 로직을 자율적 에이전트와 결정론적 워크플로우로 설계하는 아키텍처 패턴 저장소입니다. 2026년 기업용 AI 시스템이 요구하는 **신뢰성(Reliability)**과 **확장성(Scalability)**에 초점을 맞추어 구현되었습니다.
+단순한 프롬프트 엔지니어링을 넘어, **LangGraph**를 활용하여 복잡한 비즈니스 로직을 자율적 에이전트와 결정론적 워크플로우로 설계하는 아키텍처 패턴 저장소입니다. 2026년 기업용 AI 시스템이 요구하는 신뢰성과 확장성에 초점을 맞추어 구현되었습니다.
 
 ---
 
